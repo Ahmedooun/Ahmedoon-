@@ -54,7 +54,7 @@ Machine Learning • Software Development • Emerging Technologies
 
 ## 📫 Contact
 
-📧 Email: your-email@example.com  
+📧 Email: ahmed.ounissi@utbm.fr
 💼 LinkedIn: [Your LinkedIn Profile](link)  
 🌐 Portfolio: (coming soon)
 
