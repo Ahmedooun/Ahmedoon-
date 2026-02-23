@@ -51,7 +51,7 @@ Software Development • Machine Learning • Embedded Systems
 # 🚀 Projets / Projects
 
 ## 🌍 Travel Agency Website
-Site web d’agence de voyage développé en PHP avec gestion des données en SQL.
+Travel agency website developed in PHP with SQL database integration.
 
 Technologies : PHP • HTML • SQL  
 👉 https://github.com/Ahmedooun/Travel_Agency_Project
@@ -59,7 +59,7 @@ Technologies : PHP • HTML • SQL
 ---
 
 ## 🚪 University Badge Access Simulation
-Simulation d’un système de contrôle d’accès par badges sur un campus universitaire.
+Simulation of a badge-based access control system for a university campus.
 
 Technologies : C++ • CMake  
 👉 https://github.com/Ahmedooun/Gestion_Porte_Universite_Project
@@ -67,7 +67,7 @@ Technologies : C++ • CMake
 ---
 
 ## 💌 Love Letter – UTBM Edition
-Adaptation du jeu de cartes *Love Letter* en Java dans un univers UTBM.
+Java implementation of the card game Love Letter, adapted to the UTBM environment.
 
 Technologies : Java  
 👉 https://github.com/Ahmedooun/LoveLetterUTBM_Project
@@ -75,7 +75,7 @@ Technologies : Java
 ---
 
 ## ☀️ Panneau Solaire Mobile
-Projet Arduino visant à optimiser l’orientation et le rendement d’un panneau photovoltaïque mobile.
+Arduino project focused on optimizing the orientation and efficiency of a mobile photovoltaic panel.
 
 Technologies : Arduino • Capteurs  
 👉 https://github.com/Ahmedooun/Panneau_solair_mobile_Project
@@ -83,7 +83,7 @@ Technologies : Arduino • Capteurs
 ---
 
 ## 🃏 Le Pouilleux – Jeu de cartes
-Implémentation en Java du jeu de cartes “Le Pouilleux”.
+Java implementation of the card game “Le Pouilleux”.
 
 Technologies : Java  
 👉 https://github.com/Ahmedooun/Le_Pouilleux_Project
@@ -91,7 +91,7 @@ Technologies : Java
 ---
 
 ## 🔧 SY40 – Simulateur d’Ascenseurs
-Simulation d’un système de gestion d’ascenseurs en C (processus, threads, IPC).
+Simulation of an elevator management system in C using processes, threads, and IPC mechanisms.
 
 Technologies : C • Threads • IPC  
 👉 https://github.com/Ahmedooun/SY40-Project-Ascenseurs
@@ -104,7 +104,7 @@ Technologies : C • Threads • IPC
 The project features a full game engine, multiple game modes, and an advanced AI based on the Minimax algorithm with Alpha-Beta pruning. AI difficulty levels, **PvP**, **AI vs AI**, and **player vs AI** modes are supported, with configurable search depth.
 
 Technologies: Python, Tkinter, Minimax AI  
-👉 https://github://github.com/Jlcht/Teeko :contentReference[oaicite:0]{index=0}
+👉 https://github://github.com/Jlcht/Teeko
 
 ---
 
@@ -115,7 +115,9 @@ It focuses on systems programming in C with structured components and build auto
 The project was developed collectively with teammates and emphasizes modular code structure, build processes, and tool integration typical of low-level system development.
 
 Technologies: C, Makefile  
-👉 https://github.com/ByScream/UTBM-LP25-Projet :contentReference[oaicite:1]{index=1}
+👉 https://github.com/ByScream/UTBM-LP25-Projet
+
+---
 
 ## 🌍 Centres d’intérêt / Interests
 
@@ -137,7 +139,7 @@ Technologies: C, Makefile
 
 ## 📫 Contact
 
-📧 Email : ton-email@example.com  
+📧 Email : ahmed-ounissi@hotmail.com  
 💼 LinkedIn : https://linkedin.com/in/tonprofil  
 🌐 Portfolio : (bientôt disponible)
 
