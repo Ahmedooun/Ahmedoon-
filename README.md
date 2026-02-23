@@ -98,6 +98,25 @@ Technologies : C • Threads • IPC
 
 ---
 
+### 🎮 Teeko – Strategy Game with Artificial Intelligence
+
+**Teeko** is a strategy board game implemented in Python with a graphical interface using Tkinter.  
+The project features a full game engine, multiple game modes, and an advanced AI based on the Minimax algorithm with Alpha-Beta pruning. AI difficulty levels, **PvP**, **AI vs AI**, and **player vs AI** modes are supported, with configurable search depth.
+
+Technologies: Python, Tkinter, Minimax AI  
+👉 https://github://github.com/Jlcht/Teeko :contentReference[oaicite:0]{index=0}
+
+---
+
+### ⚙️ UTBM LP25 Project
+
+**UTBM-LP25-Projet** is a collaborative project carried out as part of the LP25 programming module at UTBM.  
+It focuses on systems programming in C with structured components and build automation using Make-files.  
+The project was developed collectively with teammates and emphasizes modular code structure, build processes, and tool integration typical of low-level system development.
+
+Technologies: C, Makefile  
+👉 https://github.com/ByScream/UTBM-LP25-Projet :contentReference[oaicite:1]{index=1}
+
 ## 🌍 Centres d’intérêt / Interests
 
 🇫🇷  
